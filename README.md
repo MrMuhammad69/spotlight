@@ -1,9 +1,33 @@
-# Expo Router and Tailwind CSS
+# 📸 Spotlight
 
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+A full-featured Instagram clone built for the **modern world** using **React Native**, **Expo**, and **Convex**. Smooth, real-time, and scalable – just like the real thing.
 
-## 🚀 How to use
+---
 
-```sh
-npx create-expo-app -e with-tailwindcss
-```
+## 🚀 Features
+
+✅ Realtime Feed (Convex magic ✨)  
+✅ Stories (with auto-timer, swipe, and highlights)  
+✅ Profile with Posts, Followers, and Following  
+✅ Follow / Unfollow users  
+✅ Comments & Likes  
+✅ Reels-style Video Scrolling  
+✅ Image & Video Upload (using Expo’s media picker)  
+✅ Notifications (in-app)  
+✅ Explore page with trending content  
+✅ Dark mode support  
+✅ Auth system (with username, email, password)  
+✅ Saved Posts & Bookmarks  
+✅ Modern UI built for speed and simplicity
+
+---
+
+## ⚙️ Tech Stack
+
+- 📱 **Frontend**: React Native + Expo
+- ☁️ **Backend**: Convex (Realtime Database & Functions)
+- 🔐 **Auth**: Convex Auth
+- 📦 **Media Storage**: Cloudinary (or Expo FileSystem)
+- 🧠 **State Management**: All handled with Convex’s reactive queries
+
+---

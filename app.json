@@ -4,6 +4,11 @@
     "userInterfaceStyle": "automatic",
     "orientation": "default",
     "newArchEnabled": true, 
+    "splash": {
+      "image": "./src/assets/download.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "web": {
       "output": "static"
     },
@@ -15,7 +20,7 @@
         }
       ]
     ],
-    "name": "guess-number",
-    "slug": "guess-number"
+    "name": "spotlight",
+    "slug": "spotlight"
   }
 }
