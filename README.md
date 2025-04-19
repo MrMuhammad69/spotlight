@@ -26,8 +26,8 @@ A full-featured Instagram clone built for the **modern world** using **React Nat
 
 - 📱 **Frontend**: React Native + Expo
 - ☁️ **Backend**: Convex (Realtime Database & Functions)
-- 🔐 **Auth**: Convex Auth
-- 📦 **Media Storage**: Cloudinary (or Expo FileSystem)
+- 🔐 **Auth**: Convex Auth & Clerk
+- 📦 **Media Storage**: Convex Storage
 - 🧠 **State Management**: All handled with Convex’s reactive queries
 
 ---
